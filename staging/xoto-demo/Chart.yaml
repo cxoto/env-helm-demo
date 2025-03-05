@@ -1,0 +1,9 @@
+name: xoto-demo
+version: 1.0.0
+dependencies:
+  - name: demo
+    version: "0.1.0"
+    repository: "https://registry.xoto.cc"
+  - name: xoto-template-java-spring-webflux
+    version: "0.0.1"
+    repository: "https://registry.xoto.cc"

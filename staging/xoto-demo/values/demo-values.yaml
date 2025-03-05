@@ -1,6 +1,6 @@
 demo:
   image:
-    repository: xoto/demo
+    repository: fn.xoto.cc/xoto/demo
     tag: 1.0
   
   service:

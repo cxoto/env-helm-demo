@@ -1,0 +1,3 @@
+xoto-template-java-spring-webflux:
+  env:
+    spring.profiles.include: preview
