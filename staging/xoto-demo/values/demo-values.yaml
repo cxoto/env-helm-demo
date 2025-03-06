@@ -10,5 +10,4 @@ demo:
     spring.profiles.include: staging
   
   ingress:
-    enabled: true
-
+    enabled: false

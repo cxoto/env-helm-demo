@@ -1,0 +1,9 @@
+dependencies:
+  - name: xoto-demo
+    version: "1.0.0"
+    repository: "http://http://192.168.1.4:18080"
+    alias: demo
+  - name: xoto-template-java-spring-webflux
+    version: "0.0.1"
+    repository: "http://http://192.168.1.4:18080"
+    alias: xoto-template-java-spring-webflux
